@@ -1,0 +1,15 @@
+<svg width="200" height="200" viewBox="0 0 200 200" fill="none" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+<path d="M181.602 70.2505C193.114 101.042 173.558 146.813 144.015 164.844C114.61 182.875 75.3579 173.166 49.0049 152.5C22.6519 131.695 9.33666 99.9324 17.3813 73.9955C25.4259 48.0585 54.969 28.0857 91.031 25.8665C127.232 23.786 169.951 39.4591 181.602 70.2505Z" fill="#FF0066"/>
+<mask id="mask0" mask-type="alpha" maskUnits="userSpaceOnUse" x="15" y="25" width="170" height="150">
+<path d="M181.602 70.2505C193.114 101.042 173.558 146.813 144.014 164.844C114.61 182.875 75.3579 173.166 49.0049 152.5C22.6519 131.695 9.33666 99.9324 17.3813 73.9954C25.4259 48.0585 54.969 28.0857 91.031 25.8665C127.232 23.786 169.951 39.4591 181.602 70.2505Z" fill="#FF0066"/>
+</mask>
+<g mask="url(#mask0)">
+<rect x="31.05" y="41.604" width="137.9" height="137.9" fill="url(#pattern0)"/>
+</g>
+<defs>
+<pattern id="pattern0" patternContentUnits="objectBoundingBox" width="1" height="1">
+<use xlink:href="#image0" transform="scale(0.002)"/>
+</pattern>
+<image id="image0" width="500" height="500" xlink:href=""/>
+</defs>
+</svg>
